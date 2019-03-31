@@ -1,5 +1,7 @@
   This Repository is for FOSSEE 2019 Screening Task 2 
+  
   Application: CSV LEP(Load,Edit and Plot)
+  
   Programming Language: Python
   Libraries Required: 
   1) pyqt5
@@ -17,7 +19,7 @@
   - Edit the data in particular column and row
   - Add a new row or column of data
   - Delete a row or a column of data
-  - Plot 3 different graphs namely by selecting any 2 or more columns 
+  - Plot 3 different graphs namely by selecting any 2 or more columns:
  		1) Scatter Plot
  		2) Scatter Plot with Smooth Lines
  		3) Line Plot
