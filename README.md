@@ -3,6 +3,7 @@
   Application: CSV LEP(Load,Edit and Plot)
   
   Programming Language: Python
+  
   Libraries Required: 
   1) pyqt5
   2) numpy
@@ -21,8 +22,10 @@
   - Delete a row or a column of data
   - Plot 3 different graphs namely by selecting any 2 or more columns:
  		 -Scatter Plot
+     
  		 -Scatter Plot with Smooth Lines
- 		 -Line Plot
+ 		 
+     -Line Plot
   - Save the file after editting
   - Save the plots as .png files
   
