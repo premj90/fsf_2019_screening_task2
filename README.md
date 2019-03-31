@@ -2,8 +2,8 @@
   This Repository is for FOSSEE 2019 Screening Task 2 
   
   Application: CSV LEP(Load,Edit and Plot)
-  Programming Language: Python
-  Libraries Required: 
+ -Programming Language: Python
+ -Libraries Required: 
   1) pyqt5
   2) numpy
   3) matplotlib
