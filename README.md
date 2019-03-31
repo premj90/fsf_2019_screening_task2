@@ -20,10 +20,13 @@
   - Edit the data in particular column and row
   - Add a new row or column of data
   - Delete a row or a column of data
-  - Plot 3 different graphs namely by selecting any 2 or more columns 
- 		-Scatter Plot
- 		-Scatter Plot with Smooth Lines
- 		-Line Plot
+  - Plot 3 different graphs by selecting any 2 or more columns namely 
+ 		
+    Scatter Plot
+ 		
+    Scatter Plot with Smooth Lines
+ 		
+    Line Plot
   - Save the file after editting
   - Save the plots as .png files
   
