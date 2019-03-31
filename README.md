@@ -21,9 +21,9 @@
   - Add a new row or column of data
   - Delete a row or a column of data
   - Plot 3 different graphs namely by selecting any 2 or more columns 
- 		1) Scatter Plot
- 		2) Scatter Plot with Smooth Lines
- 		3) Line Plot
+ 		-Scatter Plot
+ 		-Scatter Plot with Smooth Lines
+ 		-Line Plot
   - Save the file after editting
   - Save the plots as .png files
   
